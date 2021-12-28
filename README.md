@@ -55,8 +55,8 @@ Data 6   |PB6|9 | |20|AVcc|Vcc
 Data 7   |PB7|10| |19|PB5 |Data 5
 Segment F|PD5|11| |18|PB4 |Data 4
 Segment G|PD6|12| |17|PB3 |Data 3
-Latch    |PD7|13| |16|PB4 |Data 2
-Data 0   |PB0|14| |15|PB4 |Data 1
+Latch    |PD7|13| |16|PB2 |Data 2
+Data 0   |PB0|14| |15|PB1 |Data 1
 
 ## Wiring Instructions
 
